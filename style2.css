@@ -1,0 +1,118 @@
+.navbar {
+    background-color: purple !important;
+    padding-left: 2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nav-link{
+    color : #ffff !important;
+    font-weight: bold !important;
+    /* text-align: center !important; */
+    /* margin-left: 60px !important; */
+}
+.fa-user-circle, .fa-facebook-square, .fa-instagram, .fa-whatsapp{
+    font-size: 28px !important;
+    color:purple;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background: purple;
+    padding: 20px 0px;
+}
+.footer-icons{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+.footer-icons ul{
+  margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-icons ul li{
+    display: inline-block;
+    width: 50px;
+    height:50px ;
+    margin: 0px 10px;
+    border-radius: 100%;
+    background: white;
+}
+..footer-icons ul li:hover{
+background: yellowgreen;
+}
+.footer-icons ul li a{
+color:purple;
+font-size: 25px;
+}
+.footer-icons ul li a i{
+    line-height: 50px;
+}
+.abouthead{
+    background: rgb(241, 7, 171);
+    width: 100%;
+    height: 140px;
+    /* text-align: left; */
+    padding: 45px;
+    text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 32px;
+margin-bottom: 20px;
+color: white;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+    margin: 30px;
+}
+.intro{
+    text-align: justify; 
+    align-items: center;
+    font-size: 18px;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer-menu{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+.footer-menu ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-menu ul li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+.footer-menu ul li a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+text-transform: uppercase;
+}
+..footer-menu ul li a:hover{
+    color: yellowgreen;
+}
+a{
+    text-decoration: none;
+    outline: none;
+}
+.footer-bottom{
+width: 100%;
+height: 40px;
+margin: auto;
+background: rgb(241, 7, 171);
+padding: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 14px;
+text-align: center;
+color: white;
+font-weight: 600;
+letter-spacing: 1px;
+margin-bottom: 5px;
+}
